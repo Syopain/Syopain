@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Graphics
 - 📫 How to reach me: syopain@foxmail.com
 
-![Syopain's GitHub stats](https://github-readme-stats.vercel.app/api?username=syopain&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+[![Syopain's GitHub stats](https://github-readme-stats.vercel.app/api?username=syopain&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/Syopain)
