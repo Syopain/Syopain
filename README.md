@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying at GPNU
+- 🔭 I’m currently studying at [GPNU](https://www.gpnu.edu.cn/)
 - 🌱 I’m currently learning Graphics
 - 📫 How to reach me: syopain@foxmail.com
 
